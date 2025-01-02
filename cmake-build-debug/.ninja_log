@@ -1,0 +1,5 @@
+# ninja log v5
+1	558	7575137738677909	build.ninja	3b1f81232a44afdc
+2	225	7575113394616068	CMakeFiles/main.c.dir/main.c.obj	8eb388e84866a413
+228	490	7575113397213465	main.c.exe	6ee7750c1a840b00
+1	231	7575114248887964	CMakeFiles/main.c.dir/C&Pointer/main.c.obj	93794ad94343c119
